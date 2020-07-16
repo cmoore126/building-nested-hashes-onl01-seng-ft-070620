@@ -29,7 +29,7 @@ def bonus
             {name: "Steven", age: "30", attitude: "confused"},{name: "Nurse", age: "44", attitude: "worried"}  #your hashes here!
           ]
        }
-         
+
   epic_tragedy = [:montague][:hero][:status]= "dead"
   [:capulet][:heroine][:status]= "dead"
 
